@@ -1,6 +1,6 @@
 
-import UserCard from "./usercard/Usercard";
 import "./app.css";
+import UserCard from "./components/UserCard";
 
 function App() {
   return (
